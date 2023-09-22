@@ -1,6 +1,4 @@
-### Hello
-
-This profile is for school. I am learning stuff, such as Java and Python. Very cool, very fun.
+Welcome to my GitHub profile! Most repositories here are school-related; my work-related repositories are private (for now). Nonetheless, take a look around if you would like!
 
 <!--
 **heitmeih/heitmeih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
